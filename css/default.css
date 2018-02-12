@@ -6,3 +6,16 @@ main { font-size:1.25em; }
 .headshot { float:right; margin:5px; }
 .jumbotron>img{ display: block; margin-left: auto; margin-right: auto; }
 .jumbotron>h1{ font-family:Helvetica;text-align:center; }
+.carousel-indicators { bottom: 0px; margin-bottom: 0px; }
+.navbar-default .navbar-nav > .active { color: #3AB34A; background: #fff }
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+  color: #3AB34A; background: #fff
+}
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus {
+  background-color: #196633;
+  color: #BAD745;
+}
