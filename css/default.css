@@ -19,3 +19,6 @@ main { font-size:1.25em; }
   background-color: #196633;
   color: #BAD745;
 }
+.hidden {
+  display: none;
+}
