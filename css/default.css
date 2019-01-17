@@ -17,7 +17,7 @@ main { font-size:1.25em; }
 .navbar-default .navbar-nav > li > a:hover, 
 .navbar-default .navbar-nav > li > a:focus {
   background-color: #196633;
-  color: #BAD745;
+  color: #CEE379;
 }
 .hidden {
   display: none;
