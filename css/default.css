@@ -22,3 +22,13 @@ main { font-size:1.25em; }
 .hidden {
   display: none;
 }
+
+.sx-verified-seal {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(/images/psytoday.svg);
+  width: 146px;
+  height: 46px;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+}
