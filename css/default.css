@@ -4,6 +4,7 @@ body { margin-bottom: 60px; padding-top: 70px; font-family:"Segoe UI","Segoe","H
 .navbar-brand>img{ display:inline;margin:0 10px; } /* add height:100% for bigger images */
 main { font-size:1.2rem; }
 a { color:rgba(51,122,183,1.0); }
+h2 { padding-top: 35px; }
 .headshot { float:right; margin:5px; }
 .jumbotron>img{ display: block; margin-left: auto; margin-right: auto; }
 .jumbotron>h1{ font-family:Helvetica;text-align:center; }
@@ -25,7 +26,6 @@ a { color:rgba(51,122,183,1.0); }
 .hidden {
   display: none;
 }
-
 .sx-verified-seal {
   display: inline-block;
   background-repeat: no-repeat;
