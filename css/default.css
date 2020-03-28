@@ -23,6 +23,16 @@ h2 { padding-top: 35px; }
 .navbar-custom .navbar-nav .active a:focus{
   color: #3AB34A; background: #fff
 }
+.btn-primary,
+.btn-primary:active {
+  color: #fff !important;
+  background-color: #196633 !important;
+  border-color: #196633 !important;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(58,179,74,0.5) !important;
+}
 .hidden {
   display: none;
 }
@@ -49,6 +59,14 @@ h2 { padding-top: 35px; }
   border-radius: 5px;
   padding: 5px;
   font-size: 1.5em;
+}
+
+.modal-body * li {
+  margin-bottom: 25px;
+}
+
+.modal-body>li:last-child {
+  margin-bottom: 25px;
 }
 
 .box>img {
